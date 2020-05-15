@@ -47,8 +47,5 @@
 ## SKILLS <br />
 Experience Grant writing; Adobe InDesign (Intermediate), Illustrator (Basic), Photoshop (Basic); HTML5 (Intermediate) <br />
 
+<img src="images/MMM logo.png?raw=true">
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
