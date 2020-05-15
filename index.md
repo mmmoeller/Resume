@@ -1,64 +1,51 @@
-## Portfolio
+# Madilyn Moeller
+## EDUCATION <br />
+**Miami University, OXFORD, OH. COLLEGE OF ARTS AND SCIENCE** <br />
+- Bachelor of Arts in Professional Writing EXPECTED MAY 2020 <br />
+- Bachelor of Arts in Psychology, Neuroscience Co-Major EXPECTED MAY 2020 <br />
+- Honors: Phi Beta Kappa, Cum Laude, University Honors Program, Humanities Scholar, Redhawk Eminence Scholar, Dean’s List 2016-2019, GPA 3.84/4.0. <br />
 
-#### A brief sampling of works
----
+## WORK EXPERIENCE <br />
+**Writing Associate, HOWE CENTER FOR WRITING EXCELLENCE** (JAN.-MAY 2020) <br />
+- Consult for Economics course (ECO 347) of 30 students over series of 5 memos and final report <br />
+- Analyze drafts and presented feedback aligned with professor’s expectations <br />
 
-### Professional Writing
+**Writing Consultant, HOWE CENTER FOR WRITING EXCELLENCE** (OCT. 2018-May 2020) <br />
+- Collaborate with undergraduate and graduate students of various age, background, and academic discipline <br />
+- Prioritize writing problems quickly and formulated efficient plans tailored to client’s needs <br />
+- Consult for over 145 appointments by assessing written works, presentations, and websites <br />
+- Conduct asynchronous online consultations for two months during remote learning <br />
 
-[Exploration in Ebooks: The Scarlet Letter](https://github.com/timlockridge/digpub-the-scarlet-letter)
-<img src="/images/lauris-rozentals-RyKLUffUhVM-unsplash.jpg?raw=true"/>
+**Operations Intern, RONALD MCDONALD HOUSE CHARITIES OF DAYTON** (MAY-AUG. 2018) <br />
+- Initiated campaign to collect feedback from guests after departure, implementing feedback <br />
+- Created spreadsheets to track and assign house maintenance, assigning and performing cleaning for 14 rooms <br />
+- Transitioned registration protocols for new Family Room space in Dayton Children’s Hospital <br />
 
----
-[Grant Proposal](/pdf/Full Proposal Narrative .pdf)
-<img src="images/after_breast_cancer_logo.png?raw=true"/>
+## RESEARCH EXPERIENCE <br />
+**COMPASS (Compilation of Miami Publications Advancing the Social Sciences)** (AUG. 2019-MAY 2020) <br />
+- Review research manuscripts for publication, evaluating statistics, content, and suitability <br />
+- Identify and propose areas for improvement according to APA style practices <br />
+- Compile reviews to write editor letters with publication decision and suggested revisions <br />
 
----
-<a href="http://www.historichopewellchurch.org">
-Capstone Website</a>
-<img src="images/hhcbrochureimage.png?raw=true"/>
+**BURP-BN (Broadening Undergraduate Research Participation - Behavioral Neuroscience)** (AUG. 2019-May 2020) <br />
+- Collaborated with two researchers to assess relearning ability of mice lacking Dopamine transporters <br />
+- Proposed research after review of prior literature, performed study, analyzed data and presented results <br />
+- Earned $1000 Undergraduate Research Award for excellence in field <br />
 
----
-[Self Help Genre Presentation](/pdf/ENG495 Self Help Presentation.pdf)
-<img src="images/selfhelptitleslide.png?raw=true"/>
+## LEADERSHIP <br />
+**Secretary, TAU BETA SIGMA, DELTA EPSILON** (DEC. 2018-DEC. 2019) <br />
+- Recorded and distributed minutes twice weekly during spring and fall semesters <br />
+- Tracked attendance for 50 members at 44 Chapter functions <br />
 
----
-[Louie's Legacy Client Project](/pdf/ENG411 Client Report.pdf)
-<img src="images/LouiesLegacy-4color.png?raw=true"/>
+**Communications Chair, TAU BETA SIGMA, DELTA EPSILON** (DEC. 2017-MAY 2018) <br />
+- Composed application for Counselor’s Cup recognizing Chapter’s achievements <br />
 
----
+**“Valentunes” Chair, TAU BETA SIGMA, DELTA EPSILON** (MAY 2017-MAY 2018) <br />
+- Coordinated annual Valentine’s Day themed fundraising performance event, “Valentunes,” raising $700 for Mr. Holland’s Opus Foundation <br />
+- Recruited musical acts, designed promotional materials, appointed committees, delegated tasks, ran logistics <br />
 
-### Neuroscience 
-
-[BURP-BN Poster](/pdf/DATKO_Hinklefinal.pdf)
-<img src="images/IMG-2612.jpg?raw=true"/>
-
----
-[Research Grant Proposal](/pdf/PSY410 Grant Proposal Revised.pdf)
-<img src="images/alina-grubnyak-tEVGmMaPFXk-unsplash-cropped.jpg?raw=true"/>
-
----
-<a href="https://1drv.ms/b/s!AiohIVjc79L6vDT6vk-KqESyRUMu">
-Research Proposal Presentation</a>
-<img src="images/Lab_mouse_mg_3213.jpg?raw=true"/>
-
----
-[Stress in Adolescent Rats](/pdf/PSY351 Final Manuscript.pdf)
-<img src="images/chamber_raw.png?raw=true"/>
-
----
-[Alcohol and Anxiety](/pdf/PSY293 Research Final Paper-1.pdf)
-<img src="images/matthieu-joannon-6ciLddToTgM-unsplash.jpg?raw=true"/>
-
-### Biology
-
-[Milkweed Experiment Report](/pdf/BIO465 Milkweed Manuscript.pdf)
-<img src="images/IMG-0376.jpg?raw=true"/>
-
----
-[Darkling Beetle Food Preference](/pdf/Exploring Food Preferences in Tenebrio molitor, the Darkling Beetle.pdf)
-<img src="images/IMG-0195.jpg?raw=true"/>
-
-
+## SKILLS <br />
+Experience Grant writing; Adobe InDesign (Intermediate), Illustrator (Basic), Photoshop (Basic); HTML5 (Intermediate) <br />
 
 
 
