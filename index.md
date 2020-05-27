@@ -3,7 +3,7 @@
 **Miami University, OXFORD, OH. COLLEGE OF ARTS AND SCIENCE** <br />
 - Bachelor of Arts in Professional Writing EXPECTED MAY 2020 <br />
 - Bachelor of Arts in Psychology, Neuroscience Co-Major EXPECTED MAY 2020 <br />
-- Honors: Phi Beta Kappa, Cum Laude, University Honors Program, Humanities Scholar, Redhawk Eminence Scholar, Dean’s List 2016-2019, GPA 3.84/4.0. <br />
+- Honors: Phi Beta Kappa, Magna Cum Laude, University Honors Program, Humanities Scholar, Redhawk Eminence Scholar, Dean’s List 7 semesters, GPA 3.85/4.0. <br />
 
 ## WORK EXPERIENCE <br />
 **Writing Associate, HOWE CENTER FOR WRITING EXCELLENCE** (JAN.-MAY 2020) <br />
