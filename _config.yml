@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Miami University(OH) Class of 2020. <br />
   <br>
+  <a href="https://mmmoeller.github.io/biography">View my Bio</a>
   <a href="https://www.linkedin.com/in/madilyn-moeller/">View my LinkedIn</a>
   <br>
 theme: jekyll-theme-minimal
